@@ -35,4 +35,4 @@ Movie Explorer is a React-based web application that allows users to search movi
 
 
 
-Last updated: 2026-10-23 12:16 UTC
+Last updated: 2026-10-23 17:36 UTC
